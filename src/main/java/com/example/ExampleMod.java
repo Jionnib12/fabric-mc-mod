@@ -87,3 +87,5 @@ public class ExampleMod implements ModInitializer {
         }
     }
 }
+
+// https://github.com/Tutorials-By-Kaupenjoe/Forge-Tutorial-1.20.X/blob/4-recipes/src/main/java/net/kaupenjoe/tutorialmod/item/ModItems.java
